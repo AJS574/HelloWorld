@@ -1,6 +1,7 @@
 # HelloWorld
 New beginning
 
-What happened to my changes
-Too many open windows 
-recreate new text to compare and merge into the master copy!
+Hi World
+
+I am Amy. New to Coding and having a great time getting started
+Looking forward to a new journey
